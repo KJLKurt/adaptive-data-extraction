@@ -1,0 +1,50 @@
+{
+  "name": "adaptive-data-extractor",
+  "version": "1.0.0",
+  "description": "Flexible JavaScript library for dynamic web data extraction and processing. Configurable actions, transformations, and custom extensions for adding your own actions and transformations.",
+  "main": "src/processActions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KJLKurt/adaptive-data-extraction.git"
+  },
+  "keywords": [
+    "data-extraction",
+    "web-scraping",
+    "data-processing",
+    "dynamic-data",
+    "configurable",
+    "data-transformations",
+    "actions",
+    "contextual",
+    "adaptive",
+    "custom-plugins",
+    "data-pipeline",
+    "javascript",
+    "json",
+    "web-data",
+    "data-handling",
+    "modular",
+    "plugin-framework",
+    "config-driven",
+    "dynamic-parsing",
+    "flexible-data",
+    "web-crawling",
+    "data-automation",
+    "data-config",
+    "context-aware",
+    "scraping-framework",
+    "data-aggregation",
+    "javascript-library",
+    "dynamic-config",
+    "data-mapping",
+    "web-extraction"
+  ],
+  "author": "KJLKurt",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
